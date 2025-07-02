@@ -1,0 +1,20 @@
+325  git init
+  326  ls
+  327  ls -a
+  328  clear
+  329  git status
+  330  git add testing.py
+  331  git status
+  332  git rm --cached
+  333  git rm --cached testing.py
+  334  git status
+  335  git add testing.py
+  336  git status
+  337  git commit -m "adding testing files"
+  338  git config --global user.email "najamsaad27@gmail.com"
+  339  git commit -m "adding testing files"
+  340  git status
+  341  rm testing.py
+  343  git status
+  344  git restore testing.py
+
