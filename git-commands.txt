@@ -18,3 +18,5 @@
   343  git status
   344  git restore testing.py
 
+  Rest of the commands in the Notebook
+
